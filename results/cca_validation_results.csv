@@ -1,0 +1,7 @@
+emotion_set,validation,mean_canonical_corr,std_canonical_corr,fold_scores
+Positive emotions,Random 5-fold,0.24264121723411908,0.12397310695660269,"0.132, 0.069, 0.379, 0.267, 0.366"
+Positive emotions,Subject-aware GroupKFold,0.06885507530170697,0.17859400174154683,"0.007, 0.151, 0.182, 0.255, -0.250"
+Negative emotions,Random 5-fold,0.05257842195970983,0.08637841847947375,"0.036, -0.100, 0.062, 0.155, 0.109"
+Negative emotions,Subject-aware GroupKFold,-0.012349453196788351,0.15867825190449586,"0.069, 0.154, 0.005, 0.022, -0.313"
+All emotions incl. frustration,Random 5-fold,0.2879622581984582,0.08016781555226045,"0.187, 0.193, 0.353, 0.345, 0.362"
+All emotions incl. frustration,Subject-aware GroupKFold,0.17876299324577527,0.16817327863557557,"0.145, 0.185, 0.267, 0.404, -0.107"

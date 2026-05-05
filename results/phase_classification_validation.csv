@@ -1,0 +1,3 @@
+validation,mean_balanced_accuracy,std_balanced_accuracy,fold_scores
+Random Stratified 5-fold,0.45904761904761904,0.03977956392701194,"0.476, 0.381, 0.466, 0.488, 0.484"
+Subject-aware GroupKFold,0.4583333333333333,0.05773502691896256,"0.542, 0.483, 0.467, 0.433, 0.367"

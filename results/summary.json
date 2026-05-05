@@ -1,0 +1,30 @@
+{
+  "overview": {
+    "n_rows": 312,
+    "n_columns": 68,
+    "n_individuals": 26,
+    "n_phases": 3,
+    "n_rounds": 4,
+    "n_physio_features": 51,
+    "n_emotion_variables": 11
+  },
+  "missing_total": 9,
+  "pca_var_pc1": 0.27810238580487595,
+  "pca_var_pc2": 0.10048215802575852,
+  "pca_var_first5": 0.584154162283096,
+  "cluster_pca_ari": -0.0024606863327978922,
+  "phase_random_bal_acc_mean": 0.45904761904761904,
+  "phase_group_bal_acc_mean": 0.4583333333333333,
+  "cca_pos_random_mean": 0.24264121723411908,
+  "cca_pos_group_mean": 0.06885507530170697,
+  "cca_neg_group_mean": -0.012349453196788351,
+  "cca_all_group_mean": 0.17876299324577527,
+  "cca_pos_full_corr": 0.6034254822620292,
+  "top_cca_features": [
+    "EDA_TD_P_Mean",
+    "EDA_TD_T_Slope_mean",
+    "EDA_TD_T_Slope",
+    "EDA_TD_P_AUC",
+    "TEMP_TD_Min"
+  ]
+}
