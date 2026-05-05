@@ -10,11 +10,8 @@ Place the local data file here:
 data/HR_data.csv
 ```
 
-Then open and run:
+Then open the Jupyter notebook and run:
 
-```text
-case2_analysis_unified_FINAL_READY.ipynb
-```
 
 The notebook writes generated figures to `figures/` and numerical tables to `results/`.
 
