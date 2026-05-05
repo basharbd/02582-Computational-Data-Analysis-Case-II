@@ -10,7 +10,7 @@ Place the local data file here:
 data/HR_data.csv
 ```
 
-Then open the Jupyter notebook and run:
+Then open the Jupyter notebook and run.
 
 
 The notebook writes generated figures to `figures/` and numerical tables to `results/`.
