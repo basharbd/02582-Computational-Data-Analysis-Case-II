@@ -1,6 +1,6 @@
 # CDA Case II — Wearable Biosignal Representation
 
-This folder contains the final unified Jupyter notebook for Case II in 02582 Computational Data Analysis.
+This folder contains the Jupyter notebook for Case II in 02582 Computational Data Analysis.
 
 ## How to run
 
